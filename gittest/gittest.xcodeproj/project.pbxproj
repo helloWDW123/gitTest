@@ -430,7 +430,7 @@
 				DEVELOPMENT_TEAM = MHQFR32JU6;
 				INFOPLIST_FILE = gittest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = test.gittest;
+				PRODUCT_BUNDLE_IDENTIFIER = test.gittest.xyz;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -442,7 +442,7 @@
 				DEVELOPMENT_TEAM = MHQFR32JU6;
 				INFOPLIST_FILE = gittest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = test.gittest;
+				PRODUCT_BUNDLE_IDENTIFIER = test.gittest.xyz;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -516,6 +516,7 @@
 				72BBE5E61F8F6F98005E2EEA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		72BBE5E71F8F6F98005E2EEA /* Build configuration list for PBXNativeTarget "gittestTests" */ = {
 			isa = XCConfigurationList;
@@ -524,6 +525,7 @@
 				72BBE5E91F8F6F98005E2EEA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		72BBE5EA1F8F6F98005E2EEA /* Build configuration list for PBXNativeTarget "gittestUITests" */ = {
 			isa = XCConfigurationList;
@@ -532,6 +534,7 @@
 				72BBE5EC1F8F6F98005E2EEA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
